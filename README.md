@@ -4,8 +4,10 @@
 
 
 * [Slack](https://slack.com/404?utm_content=bufferedc61&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+* [Imgur](http://imgur.com/404)
 * [Hot Dot](http://hotdot.pro/404/)
 * [CSS Tricks](https://css-tricks.com/thispagedoesntexist)
+* [Poem of Quotes](http://www.poemofquotes.com/404)
 * [Bitly](https://bitly.com/a/404notfound)
 * [Github - 404 ](https://github.com/404)
 * [Github - 500 ](https://github.com/500)
@@ -18,7 +20,7 @@
 * [RSQ](http://rsq.com/404)
 * [Hashrocket](https://hashrocket.com/404)
 * [Connect Sense](https://www.connectsense.com/404notfound)
-
+* [Agens](https://www.agens.no/404)
 
 ## Why this repo ?
 
