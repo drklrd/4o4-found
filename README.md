@@ -1,6 +1,7 @@
 # 4o4-found 
 
-> Compilation of some interesting 4o4 pages.
+> Compilation of some interesting 4o4 pages.  [Ctrl+Click to open in new tab]
+
 
 * [Slack](https://slack.com/404?utm_content=bufferedc61&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 * [Hot Dot](http://hotdot.pro/404/)
