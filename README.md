@@ -21,6 +21,10 @@
 * [Hashrocket](https://hashrocket.com/404)
 * [Connect Sense](https://www.connectsense.com/404notfound)
 * [Agens](https://www.agens.no/404)
+* [Figma](https://www.figma.com/404)
+* [Bloomberg](https://www.bloomberg.com/404)
+* [Nclud](https://nclud.com/404)
+* [Emailcenter](https://www.emailcenteruk.com/404notfound)
 
 ## Why this repo ?
 
