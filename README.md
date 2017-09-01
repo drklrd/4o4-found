@@ -1,6 +1,6 @@
 # 4o4-found 
 
-> Compilation of some interesting 4o4 pages.  [Ctrl+Click to open in new tab]
+> Compilation of some interesting 4o4 pages.  [Ctrl+Click to open each link in new tab]
 
 * [Agens](https://www.agens.no/404)
 * [Bitly](https://bitly.com/a/404notfound)
